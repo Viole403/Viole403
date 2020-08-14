@@ -10,4 +10,4 @@
 ### 🏆 Github Stats:
 
 [![Viole403 github stats](https://github-readme-stats.vercel.app/api?username=Viole403&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true&hide=contribs)](https://github.com/Viole403)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viole403&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viole403&layout=compact)](https://github.com/Viole403/github-readme-stats)
