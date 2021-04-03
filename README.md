@@ -4,7 +4,6 @@
 - 🌱 I’m currently focussed on **Laravel and Nodejs**
 - 📫 How to reach me: [Telegram](https://telegram.me/Yuzusa) and [WhatsApp](https://api.whatsapp.com/send?phone=6282234241986)
 - ⚡ Fun fact: I'm a Japanese-Addict.
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
 ---
 
 ### 🏆 Github Stats:
