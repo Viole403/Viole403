@@ -3,6 +3,8 @@
 - 🌱 I’m currently focussed on **Laravel and Nodejs**
 - 📫 How to reach me: [Telegram](https://telegram.me/Yuzusa) and [WhatsApp](https://api.whatsapp.com/send?phone=6282234241986)
 - ⚡ Fun fact: I'm a Japanese-Addict.
+
+[![Discord](https://discord.c99.nl/widget/theme-3/541511417661095968.png)](http://discord.com/users/541511417661095968)
 ---
 
 ### 🏆 Github Stats:
