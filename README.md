@@ -4,9 +4,12 @@
 - 📫 How to reach me: [Telegram](https://telegram.me/Yuzusa) and [WhatsApp](https://api.whatsapp.com/send?phone=6285156217662)
 - ⚡ Fun fact: I'm a Japanese-Addict.
 
-![Profile View](https://komarev.com/ghpvc/?username=Viole403&label=PROFILE+VIEW&style=for-the-badge)
-
 [![Discord](https://discord.c99.nl/widget/theme-3/541511417661095968.png)](http://discord.com/users/541511417661095968)
+
+<p align='center'>
+![Profile View](https://komarev.com/ghpvc/?username=Viole403&label=PROFILE+VIEW&style=for-the-badge)
+</p>
+
 ---
 
 ### 🏆 Github Stats:
