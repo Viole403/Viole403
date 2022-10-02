@@ -4,10 +4,10 @@
 - 📫 How to reach me: [Telegram](https://telegram.me/Yuzusa) and [WhatsApp](https://api.whatsapp.com/send?phone=6285156217662)
 - ⚡ Fun fact: I'm a Japanese-Addict.
 
-[![Discord](https://discord.c99.nl/widget/theme-3/541511417661095968.png)](http://discord.com/users/541511417661095968)
-
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-3/541511417661095968.png">
+  <a href="http://discord.com/users/541511417661095968">
+    <img src="https://discord.c99.nl/widget/theme-3/541511417661095968.png">
+  </a>
 </p>
 
 <p align="center">
@@ -30,10 +30,10 @@
 ## 👋 Contact Me
 
 <p align="center">
-<a href="mailto:m.maulana.fb26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Masalief Maulana" height="30" width="30" /></a>
-<a href="https://twitter.com/viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="viole403" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/masalief-maulana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="masalief-maulana" height="30" width="30" /></a>
-<a href="https://fb.com/viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="viole403" height="30" width="30" /></a>
-<a href="https://instagram.com/shuzusa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shuzusa_" height="30" width="30" /></a>
-<a href="https://t.me/Viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="viole403" height="30" width="30" /></a>
+  <a href="mailto:m.maulana.fb26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Masalief Maulana" height="30" width="30" /></a>
+  <a href="https://twitter.com/viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="viole403" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/masalief-maulana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="masalief-maulana" height="30" width="30" /></a>
+  <a href="https://fb.com/viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="viole403" height="30" width="30" /></a>
+  <a href="https://instagram.com/shuzusa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shuzusa_" height="30" width="30" /></a>
+  <a href="https://t.me/Viole403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="viole403" height="30" width="30" /></a>
 </p>
